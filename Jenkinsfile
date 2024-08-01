@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "vitors87/nanoimg"
+        registry = "imranvisualpath/vproappdock"
         registryCredential = 'dockerhub'
     }
 
